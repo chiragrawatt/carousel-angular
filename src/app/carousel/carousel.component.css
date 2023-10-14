@@ -1,0 +1,23 @@
+img {
+    height: 100vh;
+    width: 100vw;
+}
+
+button {
+    opacity: 0.3;
+    width: 6vw;
+    border: none;
+    font-weight: bolder;
+}
+
+.next-btn {
+    position: absolute;
+    height: 100vh;
+    right: 0px;
+}
+
+.prev-btn {
+    position: absolute;
+    height: 100vh;
+    left: 0px;
+}
